@@ -1,0 +1,71 @@
+
+body {
+	margin:0;
+	padding:0;
+	font-size: 3.0mm;
+	font-family:Arial, Verdana,;
+	color:#333333;
+	background-color:#FFFFFF;
+}
+TABLE, TR, TD {font-family: Arial, Verdana; font-size: 3.0mm; color: #333333; padding: 0px;}
+A, A:link, A:active, A:visited { font-size: 3.0mm; color:#006a4b; text-decoration:underline;}
+A:hover { font-size: 3.0mm; text-decoration:underline; color:#e9c545;}
+
+
+
+
+#container2011 {
+	width:534px;
+}
+
+#wrapper2011 {
+	padding:0px;
+}
+
+#nav2011 { margin: 0px 0px 0px 0px; text-align:center; }
+
+
+#content2011 { width:534; height:189; text-align:left; margin: 0px 0px 0px 0px;   }
+
+#sumatmloctext2011 {color:#ffffff; font-size:36px;}
+
+
+#lookingfor2011 {text-align:left; margin: 0px 0px 0px 0px;  }
+
+
+#lookingfor2011 h4 {font-family: arial; font-size:18px; font-weight:bold; color: #e00034; line-height:18px; margin-top: 50px; margin-bottom: 10px; }
+#lookingfor2011 p {font-family: arial; font-size:12px;  color: #000000; line-height:12px; margin-bottom: 10px; }
+#lookingfor2011 A, A:link, A:active, A:visited { font-size:12px;  color:#0066cc; text-decoration:none;}
+A:hover {font-size:12px; text-decoration:underline;}
+
+
+
+.white2011 { font-size: 14 px; line-height: 20px; color: #FFFFFF; text-decoration:none;  }
+.white2011 A:link, .white2011 A:active, .white2011 A:visited { font-size: 16 px; line-height: 20px; color: #ffffff;  text-decoration:underline;  padding:2px }
+.white2011 A:hover { font-size: 16 px; line-height: 20px; color: #FFFFFF; text-decoration:underline; }
+
+
+
+.yellow2011 { font-size: 18px; line-height: 29px; color: #fff; text-decoration:none; border:0px solid red; font-weight:bold; }
+.yellow2011 A:link, .yellow2011 A:active, .yellow2011 A:visited { font-size: line-height: 29px; 18px; color: #fff;  text-decoration:underline; }
+.yellow2011 A:hover { font-size: 18px; line-height: 29px; color: #FFFFFF; text-decoration:underline; }
+
+.hide {line-height: 0px; font-size: 0px; margin: 0px 0px 0px 0px; margin-top: 1000px; }
+
+
+
+
+.institution { margin: 0px 0px 0px 0px;}
+
+.error {
+	color: Red;
+}
+
+.resultsh1 {
+	padding: 0px;
+}
+
+.resultsh1 h1{
+	color: #e00034; font-size:18px; line-height: 18px; margin: 0px;
+}
+
